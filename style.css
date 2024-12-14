@@ -24,7 +24,7 @@ header h1 {
 .presentation {
   padding: 2rem;
   text-align: center;
-  background-color: #ffffff;
+  background-color: ##005831;
   margin: 0 auto;
   max-width: 80%;
   border-radius: 8px;
@@ -35,6 +35,7 @@ header h1 {
   margin: 0;
   font-size: 1.2rem;
   line-height: 1.5;
+  color: #FFFFFF;
 }
 
 /* Carrossel */
